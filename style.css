@@ -1,0 +1,23 @@
+body{
+    background-color: #1B0031;
+}
+
+#mainPage{
+    background: linear-gradient(to bottom right,#C80689, #580083);
+    width: 97%;
+    margin: auto;
+    height: 25px;
+    border-radius: 0px 0px 25px 25px;
+    position: relative;
+    z-index: 1;
+    transition: 1s;
+    transition-timing-function: ease;
+}
+#mainPage:hover{
+    height: 100px;
+
+}
+#ghanta{
+    list-style-type: none;
+    margin: -25px;
+}
